@@ -1,0 +1,32 @@
+h1{
+    color: black;
+}
+body{
+    background-color: lightgrey;
+}
+.header{
+    height: 40px;
+    
+    line-height: 40px;
+}
+
+.mainbody{
+    background-color: lightgrey;
+    right: 5px;
+    left: 5px;
+}
+
+.footer{
+    height: 20px;
+    background-color: lightgrey;
+    color: black;
+    line-height: 20px;
+}
+.common{
+    text-align: center;
+    position: static;
+}
+
+#hi{
+    color: rgb(27, 27, 23);
+}

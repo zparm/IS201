@@ -1,0 +1,18 @@
+h1{
+    color: black;
+}
+body{
+    background-color: lightgrey;
+}
+ul{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ol{
+color: dark rgb(36, 35, 35);
+}
+img{
+    width: 105%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
